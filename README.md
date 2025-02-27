@@ -1,4 +1,5 @@
 👋 Hi, I’m @RockieRaheem
+
 🎓 Software Engineering Student | 📊 Aspiring Data Analyst & Data Scientist
 🥊 Boxer | 🎶 Music Lover (Hip-Hop, R&B & Country) | 👕 Fashion Enthusiast
 
