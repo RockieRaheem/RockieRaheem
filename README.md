@@ -16,7 +16,8 @@ Tech Innovation & Startups 🚀
 
 Sports (Soccer & Boxing) ⚽🥊
 
-🌱 I’m currently learning...
+🌱 I have basic knowledge in:
+React, Next.js, Javascript,Typescript and Node.js for Full Stackdevelopment.
 
 Python for Data Analysis & Machine Learning 🐍
 
